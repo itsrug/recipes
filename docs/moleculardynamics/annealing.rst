@@ -25,7 +25,7 @@ inside the thermostat input block ::
     linear      500    100.0
   }
 
-Here, a starting temperature of 1 K is heated over 500 steps up to
+Here, a starting temperature of 100 K is heated over 500 steps up to
 5500 K, held at that temperature for 200 steps and then cooled down
 again to 100 K in 500 steps.
 
